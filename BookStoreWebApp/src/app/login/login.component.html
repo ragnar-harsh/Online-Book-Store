@@ -1,0 +1,18 @@
+<div class="body">
+    <div class="login-container">
+        <h2>Login</h2>
+        <form [formGroup]="LoginForm" class="login-form" action="#" method="post">
+            <label for="username">Username:</label>
+            <input formControlName="email" type="text" id="username" name="username" placeholder="Enter your username" required>
+
+            <label for="password">Password:</label>
+            <input formControlName="password" type="password" id="password" name="password" placeholder="Enter your password" required>
+
+            <button type="submit" (click)="OnSubmit()">Login</button>
+            <div class="register-link">
+                <p>If not registered, <button routerLink="/signup">Signup</button></p>
+            </div>
+        </form>
+    </div>
+
+</div>

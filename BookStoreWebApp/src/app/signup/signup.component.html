@@ -1,0 +1,55 @@
+<div class="body">
+    <div class="signup-container">
+        <h2>Signup</h2>
+        <form [formGroup]="SignupForm" (ngSubmit)="OnSubmit()" class="signup-form" action="#" method="post">
+            <label for="firstname">First Name:</label>
+            <input formControlName="fname" type="text" id="firstname" name="firstname" placeholder="Enter your first name" required>
+            <small *ngIf="SignupForm.get('fname').errors?.['noSpaceAllowed']">No Space is Allowed</small>
+
+            <label for="lastname">Last Name:</label>
+            <input formControlName="lname" type="text" id="lastname" name="lastname" placeholder="Enter your last name" required>
+            <small *ngIf="SignupForm.get('lname').errors?.['noSpaceAllowed']">No Space is Allowed</small>
+            
+            <div class="radio-group">Gender:
+                <label>
+                    <input formControlName="gender" type="radio" name="gender" value="male" checked>
+                    Male
+                </label>
+                <label>
+                    <input formControlName="gender" type="radio" name="gender" value="female">
+                    Female
+                </label>
+                <label>
+                    <input formControlName="gender" type="radio" name="gender" value="other">
+                    Other
+                </label>
+            </div>
+
+            <label for="email">Email:</label>
+            <input formControlName="email" type="email" id="email" name="email" placeholder="Enter your email" required>
+
+            <label for="password">Password:</label>
+            <input formControlName="password" type="password" id="password" name="password" placeholder="Enter your password" required>
+
+            <label for="confirmPassword">Confirm Password:</label>
+            <input formControlName="confirmPassword" type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm your password" required>
+
+            <div class="radio-group">
+                <label>
+                    <input formControlName="userType" type="radio" name="userType" value="user" checked>
+                    User
+                </label>
+                <label>
+                    <input formControlName="userType" type="radio" name="userType" value="admin">
+                    Admin
+                </label>
+            </div>
+
+            <button type="submit" >Signup</button>
+            <br>
+            <div class="register-link">
+                <p>If already registered, <button routerLink="/login">Login</button></p>
+            </div>
+        </form>
+    </div>
+</div>

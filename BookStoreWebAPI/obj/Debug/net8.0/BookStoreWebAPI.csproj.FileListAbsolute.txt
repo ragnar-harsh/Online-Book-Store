@@ -1,0 +1,252 @@
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\appsettings.json
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.exe
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.deps.json
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.runtimeconfig.json
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.pdb
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Humanizer.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Npgsql.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\System.CodeDom.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.csproj.AssemblyReference.cache
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.AssemblyInfoInputs.cache
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.AssemblyInfo.cs
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.csproj.CoreCompileInputs.cache
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStoreWebAPI.props
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreWebAPI.props
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStoreWebAPI.props
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\scopedcss\bundle\BookStoreWebAPI.styles.css
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.csproj.CopyComplete
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.dll
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\refint\BookStoreWebAPI.dll
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.pdb
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.genruntimeconfig.cache
+G:\1.0 Demo\BookStoreWebAPI\obj\Debug\net8.0\ref\BookStoreWebAPI.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\dotnet-ef.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\AutoMapper.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\1.0 Demo\BookStoreWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.csproj.AssemblyReference.cache
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.AssemblyInfoInputs.cache
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.AssemblyInfo.cs
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.csproj.CoreCompileInputs.cache
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.dll
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\refint\BookStoreWebAPI.dll
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.pdb
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\appsettings.json
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.exe
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.deps.json
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.runtimeconfig.json
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\BookStoreWebAPI.pdb
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\AutoMapper.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Humanizer.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\dotnet-ef.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Npgsql.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\System.CodeDom.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStoreWebAPI.props
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreWebAPI.props
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStoreWebAPI.props
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\scopedcss\bundle\BookStoreWebAPI.styles.css
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.csproj.CopyComplete
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.genruntimeconfig.cache
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\ref\BookStoreWebAPI.dll
