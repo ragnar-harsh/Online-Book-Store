@@ -37,15 +37,16 @@ namespace BookStoreWebAPI.Controller
             return Ok(book);
         }
 
-        [HttpPost("")]
-        public async Task<IActionResult> AddNewBook([FromBody]BookModel bookModel)
+        [HttpPost("addBook")]
+        public async Task<IActionResult> AddNewBook([FromForm]BookModel bookModel)
         {
             var id = await _bookRepository.AddBookAsync(bookModel);
-            return CreatedAtAction(nameof(GetBookById), new {id = id, Controller = "book"}, id);
+            // return CreatedAtAction(nameof(GetBookById), new {message = "Book Added Successfully with BookId", id = id, Controller = "book"}, id);
+            return Ok(new {message = "Book Added Successfully with BookId "+ id });
         }
 
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateBook([FromBody]BookModel bookModel, [FromRoute] int id)
+        [HttpPost("updateBook/{id}")]
+        public async Task<IActionResult> UpdateBook([FromForm]BookModel bookModel, [FromRoute] int id)
         {
             await _bookRepository.UpdateBookAsync(id, bookModel);
             return Ok(new { Message = "Book Updated!"});
@@ -59,7 +60,7 @@ namespace BookStoreWebAPI.Controller
         }
 
 
-        [HttpDelete("{id}")]
+        [HttpDelete("removeBook/{id}")]
         public async Task<IActionResult> DeleteBook([FromRoute] int id)
         {
             await _bookRepository.DeleteBookAsync(id);

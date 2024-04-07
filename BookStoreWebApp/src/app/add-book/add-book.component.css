@@ -54,4 +54,11 @@
   button:hover {
     opacity: 0.8;
   }
+
+  input.ng-touched.ng-invalid{
+    border: 1px solid red;
+  }
+  textarea.ng-touched.ng-invalid{
+    border: 1px solid red;
+  }
   

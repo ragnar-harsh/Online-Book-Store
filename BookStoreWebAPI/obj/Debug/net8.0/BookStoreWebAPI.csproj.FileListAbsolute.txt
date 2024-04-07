@@ -250,3 +250,4 @@ G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\scopedcss\bundle\BookStoreWe
 G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.csproj.CopyComplete
 G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.genruntimeconfig.cache
 G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\ref\BookStoreWebAPI.dll
+G:\OnlineBookStore\BookStoreWebAPI\obj\Debug\net8.0\BookStoreWebAPI.sourcelink.json

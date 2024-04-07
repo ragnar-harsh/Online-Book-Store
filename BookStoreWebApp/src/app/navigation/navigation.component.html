@@ -2,7 +2,8 @@
   <a href="#">Online Book Store</a>
   <a routerLink="/home">Home</a>
   <a routerLink="/books">Books</a>
-  <a routerLink="/addBook">Add Book</a>
+  <a *ngIf="isLoggedIn" routerLink="/addBook">Add Book</a>
+  <a href="#">Features</a>
   <a href="#">About Us</a>
   <div class="login-container">
     <span *ngIf="isLoggedIn"> Hi, {{fname}}</span>
